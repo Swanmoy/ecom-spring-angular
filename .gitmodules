@@ -1,0 +1,6 @@
+[submodule "ecom_frontend"]
+	path = ecom_frontend
+	url = https://github.com/Swanmoy/ecom-angular-frontend.git
+[submodule "ecom_backend"]
+	path = ecom_backend
+	url = https://github.com/Swanmoy/ecom-backend-spring.git
